@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "440923459790",
+    "project_id": "relatesa-fedeb",
+    "storage_bucket": "relatesa-fedeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440923459790:android:7c54a070580d517df5809f",
+        "android_client_info": {
+          "package_name": "za.co.relatesa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440923459790-a1v13p7vtjumn8tnhcg5so11vaqkud94.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "za.co.relatesa",
+            "certificate_hash": "13be4cb5930e5550792d9c801d3a32ac60304ddb"
+          }
+        },
+        {
+          "client_id": "440923459790-5qqtqhavbgoibia0ufno1446gqtc8chn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5Esx7CcubF0GdoGtOGulC-xKHVXWO6E0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440923459790-5qqtqhavbgoibia0ufno1446gqtc8chn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
